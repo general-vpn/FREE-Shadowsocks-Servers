@@ -1,7 +1,8 @@
 # 免费 Shadowsocks 服务器分享
 
 ## 服务说明
-搭建了几个 Shadowsocks 服务器供大家免费使用！这些服务器完全不限速、不限流量，适合日常科学上网需求。
+搭建了几个 Shadowsocks 服务器供大家免费使用！这些服务器完全不限速、不限流量，适合日常科学上网需求。如果节点被封可以联系我 [general.kim.vpn@gmail.com](mailto:general.kim.vpn@gmail.com)
+
 
 # Shadowsocks 配置一览
 
