@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #3C3B6E; /* Blue background */
+    color: white; /* White text */
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    background: #ED1C27; /* Red banner */
+    color: white;
+    padding: 1rem 0;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 1.25rem;
+    margin: 1rem 0;
+  }
+  
+  a {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #FFFFFF; /* White for contrast */
+    color: #3C3B6E; /* Blue text */
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    background-color: #ED1C27; /* Red on hover */
+    color: white;
+  }
+  
+  footer {
+    margin-top: 2rem;
+    background-color: #ED1C27; /* Red footer */
+    color: white;
+    padding: 0.5rem 0;
+  }
+  
+  
