@@ -43,6 +43,12 @@
 2. 导入配置链接或手动输入服务器信息。
 3. 连接后即可畅享稳定高速的网络体验。
 
+---
+### Telegram频道/群组
+https://t.me/general_kim_free_vpn 
+https://t.me/+EoIZ07HZ7fUwNzNh
+
+
 ### 支持我的项目
 如果您觉得本服务对您有帮助，请给个 ⭐Star 支持我！  
 
