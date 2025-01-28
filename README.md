@@ -1,4 +1,5 @@
-# 免费 Shadowsocks 服务器分享
+# 📢 公告：由于经费有限，服务器数量将有所缩减！（2025年1月27日）
+
 
 ## 服务说明
 搭建了几个 Shadowsocks 服务器供大家免费使用！这些服务器完全不限速、不限流量，适合日常科学上网需求。如果节点被封可以联系我 [general.kim.vpn@gmail.com](mailto:general.kim.vpn@gmail.com)
@@ -9,26 +10,20 @@
 ## 订阅链接
 | 地区  | 订阅链接                                                                                          |
 |-------|---------------------------------------------------------------------------------------------------|
-| 台湾  | `ss://YWVzLTI1Ni1jZmI6YXNkZjEyMzRAMzUuMTk0LjIyNy4zMjo4ODQ4`                                       |
-| 日本  | `ss://YWVzLTI1Ni1jZmI6YXNkZjEyMzRAMzUuMjAwLjExNS4xODQ6ODg0OA`                                     |
-| 美国  | `ss://YWVzLTI1Ni1jZmI6YXNkZjEyMzRAMzQuNTguMTU5LjE4Ojg4NDg`                                       |
-| 香港  | `ss://YWVzLTI1Ni1jZmI6YXNkZjEyMzRAMzUuMjIwLjE2My4yMzM6ODg0OA`                                     |
-| 德国  | `ss://YWVzLTI1Ni1jZmI6YXNkZjEyMzRAMzQuMTQxLjgyLjE2NTo4ODQ4`                                       |
-| 卡塔尔| `ss://YWVzLTI1Ni1jZmI6YXNkZjEyMzRAMzQuMTguNS4xNjM6ODg0OA`                                         |
-| 英国  | `ss://YWVzLTI1Ni1jZmI6YXNkZjEyMzRAMzQuMTQyLjIxLjIxMTo4ODQ4`                                       |
+| 日本  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzUuMjEzLjcxLjE0MTo4ODQ4`                                     |
+| 美国  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzUuMjA4LjExMy4yNTU6ODg0OA`                                       |
+| 英国  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzUuMjE0LjkyLjg0Ojg4NDg`                                       |
+| 澳大利亚  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzQuMTI5LjI0MC4xNTk6ODg0OA`                                       |
 
 ---
 
 ## 手动配置信息
 | 地区  | IP 地址          | 端口  | 密码       | 加密方式    |
 |-------|------------------|-------|------------|-------------|
-| 台湾  | `35.194.227.32`  | 8848  | `asdf1234` | `aes-256-cfb` |
-| 日本  | `35.200.115.184` | 8848  | `asdf1234` | `aes-256-cfb` |
-| 美国  | `34.58.159.18`   | 8848  | `asdf1234` | `aes-256-cfb` |
-| 香港  | `35.220.163.233` | 8848  | `asdf1234` | `aes-256-cfb` |
-| 德国  | `34.141.82.165`  | 8848  | `asdf1234` | `aes-256-cfb` |
-| 卡塔尔| `34.18.5.163`    | 8848  | `asdf1234` | `aes-256-cfb` |
-| 英国  | `34.142.21.211`  | 8848  | `asdf1234` | `aes-256-cfb` |
+| 日本  | `35.213.71.141` | 8848  | `asdf1234` | `aes-256-cfb` |
+| 美国  | `35.208.113.255`   | 8848  | `asdf1234` | `aes-256-cfb` |
+| 英国| `35.214.92.84`    | 8848  | `asdf1234` | `aes-256-cfb` |
+| 澳大利亚  | `34.129.240.159`  | 8848  | `asdf1234` | `aes-256-cfb` |
 
 ---
 ### Shadowsocks 客户端下载
