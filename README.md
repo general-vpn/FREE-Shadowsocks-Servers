@@ -1,4 +1,4 @@
-# 📢 公告：由于经费有限，服务器数量将有所缩减！（2025年1月27日）
+# 📢 公告：由于经费有限，服务器数量将有所缩减！（2025年4月28日）
 
 
 ## 服务说明
@@ -10,20 +10,18 @@
 ## 订阅链接
 | 地区  | 订阅链接                                                                                          |
 |-------|---------------------------------------------------------------------------------------------------|
-| 日本  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzUuMjEzLjcxLjE0MTo4ODQ4`                                     |
-| 美国  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzUuMjA4LjExMy4yNTU6ODg0OA`                                       |
-| 英国  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzUuMjE0LjkyLjg0Ojg4NDg`                                       |
-| 澳大利亚  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzQuMTI5LjI0MC4xNTk6ODg0OA`                                       |
+| 日本  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzUuMjEzLjU2LjIwNjo4ODQ4`                                     |
+| 美国  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzQuMS4yNy44Nzo4ODQ4`                                       |
+| 法国  | `ss://YWVzLTI1Ni1nY206YXNkZjEyMzRAMzQuMS4xMi4yMzc6ODg0OA`                                       |
 
 ---
 
 ## 手动配置信息
 | 地区  | IP 地址          | 端口  | 密码       | 加密方式    |
 |-------|------------------|-------|------------|-------------|
-| 日本  | `35.213.71.141` | 8848  | `asdf1234` | `aes-256-cfb` |
-| 美国  | `35.208.113.255`   | 8848  | `asdf1234` | `aes-256-cfb` |
-| 英国| `35.214.92.84`    | 8848  | `asdf1234` | `aes-256-cfb` |
-| 澳大利亚  | `34.129.240.159`  | 8848  | `asdf1234` | `aes-256-cfb` |
+| 日本  | `35.213.56.206` | 8848  | `asdf1234` | `aes-256-gcm` |
+| 美国  | `34.1.27.87`   | 8848  | `asdf1234` | `aes-256-gcm` |
+| 法国| `34.1.12.237`    | 8848  | `asdf1234` | `aes-256-gcm` |
 
 ---
 ### Shadowsocks 客户端下载
